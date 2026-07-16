@@ -1,0 +1,41 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+
+# Publish
+publish/
+
+# EF Core generated
+Migrations/*.Designer.cs
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Secrets
+appsettings.Development.json
+
+# Node
+node_modules/
+
+# Angular build
+dist/
